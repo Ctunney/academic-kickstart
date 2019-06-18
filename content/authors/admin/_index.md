@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Further North Consulting is a convergence of my experience in business with community development made available to serve your organization. I can connect people, processes and pathways to help your social enterprise or non-profit thrive. 
-CONTACT Craig Tunney m +678 7389002     e craig@furthernorth.net.au
+bio: Further North Consulting is a convergence of my experience in business with community development made available to serve your organization. I can connect people, processes and pathways to help your social enterprise or non-profit thrive. CONTACT Craig Tunney m +678 7389002     e craig@furthernorth.net.au
 
 interests:
 - Project Planning
@@ -69,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Craig Tunney is currently on assignment in Vanuatu as an organisational development mentor with a local NGO.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Other interests include social enterprise, photography and fixing things.
