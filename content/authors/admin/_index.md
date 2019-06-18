@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Craig Tunney
 
 # Username (this should match the folder name)
 authors:
@@ -10,33 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Consultant on Community Development
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Australian Volunteers Program; Global Development Group; ASCPA; University of Queensland; SYdney University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Further North Consulting is a convergence of my experience in business with community development made available to serve your organization. I can connect people, processes and pathways to help your social enterprise or non-profit thrive. 
+CONTACT Craig Tunney m +678 7389002     e craig@furthernorth.net.au
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Project Planning
+- Systems Design, Testinga and Implementing
+- Human Resource strengthening
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Certified Practicing Accountant
+    institution: ASCPA
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+  - course: B.Econ in Economics and Accounting
+    institution: Sydney University
+    year: 2007
+  - course: TESOL Certificate 4
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
