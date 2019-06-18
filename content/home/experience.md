@@ -18,27 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Organisational Support Officer - Australian Aid Volunteer Program"
+  company = "Vanuatu Disability Promotion & Advocacy"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Espiritu Santo, Vanuatu"
+  date_start = "2019-01-27"
   date_end = ""
-  description = """
+  description = """Building organisational capacity in financial management, project management and human resources. 
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Financial management
+  * Human Resources
+  * Mentoring
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Senior Project Officer"
+  company = "Global Development Group"
+  company_url = "www.globaldevelopment.org.au"
+  location = "Brisbane, Australia"
+  date_start = "2010-07-01"
+  date_end = "2019-01-27"
+  description = """Advising on community deveopment project design for programs in South East Asia.
+  Dimensions include:
+  
+  * 41 current projects
+  * $2millAUD budget
+  * On-boarding new partnerships
+  
+  """
 
 +++
