@@ -47,7 +47,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to **FURTHER NORTH**
+Welcome to FURTHER NORTH
 
 
 **To remove this section, delete `content/home/demo.md`.**
