@@ -14,7 +14,7 @@ role: Consultant on Community Development
 
 # Organizations/Affiliations
 organizations:
-- name: Australian Volunteers Program; Global Development Group; ASCPA; University of Queensland; SYdney University
+- name: Australian Volunteers Program; Global Development Group; ASCPA; University of Queensland; Sydney University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
